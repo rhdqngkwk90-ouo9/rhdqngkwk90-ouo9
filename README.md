@@ -13,6 +13,7 @@
 -->
 <img src="https://img.shields.io/badge/JAVA-424242?style=flat&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-424242?style=flat&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-424242?style=flat&logo=Spring&logoColor=white"> 
 </br>
-<img src="https://img.shields.io/badge/MySQL-151515?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-151515?style=flat&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-151515?style=flat&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/AmazonRDS-151515?style=flat&logo=AmazonRDS&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-2E2E2E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-2E2E2E?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-2E2E2E?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-2E2E2E?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-2E2E2E?style=flat&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/AmazonRDS-2E2E2E?style=flat&logo=AmazonRDS&logoColor=white"/>
+</br>
+<img src="https://img.shields.io/badge/JavaScript-151515?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-151515?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-151515?style=flat&logo=css3&logoColor=white">
 </br>
